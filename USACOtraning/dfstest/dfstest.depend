@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567601437 source:e:\usacotraning\dfstest\main.cpp
+	<stdio.h>
+	<iostream>
+	<cstdio>
+

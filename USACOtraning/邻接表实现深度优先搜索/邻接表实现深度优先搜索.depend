@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567588638 source:e:\usacotraning\邻接表实现深度优先搜索\main.cpp
+	<stdio.h>
+	<iostream>
+	<cstdio>
+

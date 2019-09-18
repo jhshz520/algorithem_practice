@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567843697 source:e:\usacotraning\dfs_based_on_stack\main.cpp
+	<iostream>
+	<cstdio>
+	<stack>
+

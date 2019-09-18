@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568548130 source:e:\usacotraning\dictionary\main.cpp
+	<iostream>
+	<cstdio>
+	<string.h>
+

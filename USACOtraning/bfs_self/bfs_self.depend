@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568604810 source:e:\usacotraning\bfs_self\main.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+
