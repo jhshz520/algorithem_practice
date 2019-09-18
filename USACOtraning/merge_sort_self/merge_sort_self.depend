@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568791124 source:e:\usacotraning\merge_sort_self\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
